@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.13.jar" sourcepath="C:/Users/caibi/AppData/Local/Temp/.org.sf.feeling.decompiler1702362316186/source/mysql-connector-java-8.0.13-sources-1702362319743.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.17.jar" sourcepath="C:/Users/caibi/AppData/Local/Temp/.org.sf.feeling.decompiler1666172804078/source/poi-ooxml-3.17-sources-1666176259525.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
